@@ -1,2 +1,2 @@
 # Lifepatch
-Fix minecraft common exploits 1.8-1.18
+Arregla bugs comunes desde la 1.8 hasta la 1.18
